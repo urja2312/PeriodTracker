@@ -34,7 +34,7 @@ public class LoginActivity extends AppCompatActivity {
         etEmail = findViewById(R.id.et_email);
         etPassword = findViewById(R.id.et_password);
         btnLogin = findViewById(R.id.btn_login);
-        tvRegisterLink = findViewById(R.id.tv_register); // <-- Make sure this ID matches your XML
+        tvRegisterLink = findViewById(R.id.tv_register);
 
         btnLogin.setOnClickListener(v -> {
             String email = etEmail.getText().toString().trim();
