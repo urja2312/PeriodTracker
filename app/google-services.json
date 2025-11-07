@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "701014883283",
+    "firebase_url": "https://period-tracker-app-e4b59-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "period-tracker-app-e4b59",
+    "storage_bucket": "period-tracker-app-e4b59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701014883283:android:102895989ff4b6c80e4d26",
+        "android_client_info": {
+          "package_name": "com.example.periodtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEidMuZtcMZ6KhAPhSrojAMtca8laT064"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

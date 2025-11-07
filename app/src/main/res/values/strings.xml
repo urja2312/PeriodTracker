@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Period Tracker</string>
+
+    <!-- Login & Register -->
+    <string name="login_title">Welcome Back</string>
+    <string name="register_title">Create Account</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="register_link">Do not have an account? Register</string>
+    <string name="login_link">Already have an account? Login</string>
+    <string name="login_success">Login successful!</string>
+    <string name="login_failed">Login failed:</string>
+    <string name="register_success">Registration successful!</string>
+    <string name="register_failed">Registration failed:</string>
+
+    <!-- Setup Activity -->
+    <string name="setup_title">Lets Get Started</string>
+    <string name="setup_subtitle">Tell us about your cycle</string>
+    <string name="name_hint">Your Name</string>
+    <string name="age_hint">Age</string>
+    <string name="cycle_length_hint">Average Cycle Length (days)</string>
+    <string name="select_date_button">Select Last Period Start Date</string>
+    <string name="no_date_selected">No date selected</string>
+    <string name="save_and_continue">Save and Continue</string>
+
+    <!-- Navigation Drawer -->
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_calendar">Cycle Calendar</string>
+    <string name="nav_symptoms">Log Symptoms</string>
+    <string name="nav_history">History &amp; Insights</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_logout">Logout</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="welcome_message">Hello, %1$s!</string>
+    <string name="next_period_title">📅 Next Period</string>
+    <string name="next_period_in">In %1$d days</string>
+    <string name="fertile_window_title">🌸 Fertile Window</string>
+    <string name="fertile_window_dates">%1$s - %2$s</string>
+    <string name="ovulation_day">Ovulation: %1$s</string>
+    <string name="current_cycle_title">📍 Current Cycle</string>
+    <string name="cycle_day_display">Day %1$d of %2$d</string>
+    <string name="quick_mood_title">😊 How are you feeling?</string>
+    <string name="save_mood">Save Mood</string>
+
+    <!-- Calendar -->
+    <string name="calendar_title">Cycle Calendar</string>
+    <string name="legend_title">Legend</string>
+    <string name="period_days">Period Days</string>
+    <string name="fertile_days">Fertile Window</string>
+    <string name="ovulation">Ovulation</string>
+    <string name="today">Today</string>
+    <string name="edit_cycle_info">Edit Cycle Info</string>
+
+    <!-- Symptoms -->
+    <string name="symptoms_title">Log Symptoms</string>
+    <string name="mood_section_title">Mood &amp; Emotions</string>
+    <string name="physical_section_title">Physical Symptoms</string>
+    <string name="flow_section_title">Flow Tracking</string>
+    <string name="notes_section_title">Additional Notes</string>
+    <string name="severity_label">Severity: %1$d/10</string>
+    <string name="save_symptoms">Save Symptom Log</string>
+    <string name="symptoms_saved">Symptoms logged successfully!</string>
+
+    <!-- Mood Options -->
+    <string name="mood_happy">😊 Happy</string>
+    <string name="mood_tired">😴 Tired</string>
+    <string name="mood_crampy">😣 Crampy</string>
+    <string name="mood_moody">😤 Moody</string>
+    <string name="mood_sad">😢 Sad</string>
+    <string name="mood_anxious">😰 Anxious</string>
+    <string name="mood_calm">😌 Calm</string>
+    <string name="mood_energetic">🤗 Energetic</string>
+    <string name="mood_irritable">😖 Irritable</string>
+    <string name="mood_low">😞 Low</string>
+    <string name="mood_sleepy">🥱 Sleepy</string>
+    <string name="mood_peaceful">😇 Peaceful</string>
+
+    <!-- Physical Symptoms -->
+    <string name="symptom_cramps">🔥 Cramps</string>
+    <string name="symptom_bloating">💨 Bloating</string>
+    <string name="symptom_breast_tenderness">💔 Breast Tenderness</string>
+    <string name="symptom_sore_breasts">😣 Sore Breasts</string>
+    <string name="symptom_headache">🤕 Headache</string>
+    <string name="symptom_migraine">⚡ Migraine</string>
+    <string name="symptom_back_pain">🔙 Back Pain</string>
+    <string name="symptom_joint_pain">🦴 Joint Pain</string>
+    <string name="symptom_fatigue">😴 Fatigue</string>
+    <string name="symptom_nausea">🤢 Nausea</string>
+    <string name="symptom_dizziness">💫 Dizziness</string>
+    <string name="symptom_acne">🔴 Acne</string>
+    <string name="symptom_hot_flashes">🔥 Hot Flashes</string>
+    <string name="symptom_insomnia">🌙 Insomnia</string>
+    <string name="symptom_cravings">🍫 Food Cravings</string>
+    <string name="symptom_digestive">🫃 Digestive Issues</string>
+    <string name="symptom_mood_swings">🎭 Mood Swings</string>
+
+    <!-- Flow Levels -->
+    <string name="flow_spotting">Spotting</string>
+    <string name="flow_light">Light</string>
+    <string name="flow_medium">Medium</string>
+    <string name="flow_heavy">Heavy</string>
+    <string name="flow_very_heavy">Very Heavy</string>
+
+    <!-- History -->
+    <string name="history_title">History &amp; Insights</string>
+    <string name="no_history">No history available yet</string>
+    <string name="mood_patterns">Mood Patterns</string>
+    <string name="symptom_frequency">Symptom Frequency</string>
+    <string name="cycle_regularity">Cycle Regularity</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="profile_section">Profile Information</string>
+    <string name="cycle_section">Cycle Settings</string>
+    <string name="notifications_section">Notifications</string>
+    <string name="about_section">About</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="settings_saved">Settings saved successfully!</string>
+
+    <!-- Validation Errors -->
+    <string name="error_name_required">Name is required</string>
+    <string name="error_age_required">Age is required</string>
+    <string name="error_age_invalid">Please enter a valid age (10-70)</string>
+    <string name="error_cycle_required">Cycle length is required</string>
+    <string name="error_cycle_invalid">Cycle length should be between 21-35 days</string>
+    <string name="error_date_required">Please select last period start date</string>
+    <string name="error_email_required">Email is required</string>
+    <string name="error_email_invalid">Please enter a valid email</string>
+    <string name="error_password_required">Password is required</string>
+    <string name="error_password_length">Password must be at least 6 characters</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="logout_success">Logged out successfully</string>
+    <string name="loading">Loading…</string>
+</resources>

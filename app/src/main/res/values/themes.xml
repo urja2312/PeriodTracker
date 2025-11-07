@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Material theme for your app -->
+    <style name="Base.Theme.PeriodTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- You can customize your app's global colors here -->
+        <!-- Example: <item name="colorPrimary">@color/magenta</item> -->
+    </style>
+    <!-- Entry point theme for your app -->
+    <style name="Theme.PeriodTracker" parent="Base.Theme.PeriodTracker" />
+</resources>
