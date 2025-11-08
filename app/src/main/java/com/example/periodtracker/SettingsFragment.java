@@ -47,7 +47,7 @@ public class SettingsFragment extends Fragment {
         mAuth = FirebaseAuth.getInstance();
         dbRef = FirebaseDatabase.getInstance().getReference();
 
-        // Initialize views - you'll need to add these IDs to fragment_settings.xml
+        // Initialize views
         initializeViews(view);
 
         // Load current user data
